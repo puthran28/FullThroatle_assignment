@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
-    "json:server": "json-server --watch  friends.json"
+    "json:server": "json-server --watch  UserList.json"
   },
   "keywords": [],
   "author": "",
