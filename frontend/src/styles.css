@@ -1,0 +1,110 @@
+
+body {
+  background: #343a40;
+}
+
+.foot{
+  height:  6rem;
+}
+
+.btn{
+  height: 2rem;
+  font-size: small;
+}
+
+.foo{
+  height: 1rem;
+}
+
+
+.btn-exp{
+  margin-top: 15px;
+  margin-left: 5px;
+  background-color: orangered;
+  color: white;
+  height: 40px;
+  border-radius: 11px;
+  font-weight: bold;
+}
+
+.frndbutton {
+  transition-duration: 0.4s;
+}
+
+.frndbutton:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.btn-stl{
+  font-weight: bold;
+  margin-top: 15px;
+  margin-left: 5px;
+  background-color: cyan;
+  color: white;
+  height: 40px;
+  border-radius: 11px;
+}
+
+li{
+
+  padding-right: 20px;
+  display: inline;
+  float: right;
+}
+ul{
+  display: block;
+}
+.dash{
+  margin-top: 0;
+  background-color: lightgray;
+  height: 70px;
+  margin-bottom: 0;
+  border-bottom-style: ridge;
+}
+.dash2{
+
+  padding-top: 30px;
+  margin-top: 0;
+  background-color: lightgray;
+  height: 70px;
+}
+
+.frndbutton{
+  size: 3rem;
+  width: 200px;
+  background-color: coral;
+}
+
+
+
+option{
+  width: 500px;
+}
+
+.toto{
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgray;
+  height: 75px;
+  
+}
+
+.toto1{
+  display: flex;
+  justify-content: space-around;
+  border-top-style: ridge;
+  background-color: lightgray;
+  height: 400px;
+}
+
+.toto:after {
+  content: "";
+  background-color: white;
+  position: absolute;
+  width: 1px;
+  height: 350px;
+  top: 187px;
+  left: 70%;
+  display: block;
+}
